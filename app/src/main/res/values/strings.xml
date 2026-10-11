@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FilterStudio</string>
+    <string name="undo">Undo</string><string name="redo">Redo</string>
+    <string name="rotate">Rotate</string><string name="flip">Flip</string>
+    <string name="compare">Compare before/after</string>
+    <string name="straighten">Straighten</string><string name="crop">Crop</string>
+    <string name="mask">Masked edit</string><string name="auto_enhance">Auto enhance</string>
+    <string name="surprise">Surprise me</string><string name="save">Save</string>
+    <string name="share">Share</string><string name="video">Export video</string>
+    <string name="batch">Batch edit</string><string name="filter_strength">Filter strength</string>
+    <string name="flip_camera">Flip camera</string><string name="capture">Capture</string>
+    <string name="add_text">Add text</string><string name="add_sticker">Add sticker</string>
+    <string name="delete_overlay">Delete overlay</string>
+    <string name="front">Bring to front</string><string name="back">Send to back</string>
+    <string name="filter_applied">Filter %1$s applied</string>
+    <string name="overlay_deleted">Overlay deleted</string>
+    <string name="saved">Saved to Pictures/FilterStudio</string>
+    <string name="brush_size">Brush size</string><string name="add">Add</string>
+    <string name="erase">Erase</string><string name="clear">Clear</string>
+    <string name="apply">Apply</string><string name="cancel">Cancel</string>
+    <string name="done">Done</string><string name="import_lut">Import .cube</string>
+    <string name="lut">LUTs</string>
+</resources>

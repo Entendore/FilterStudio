@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.FilterStudio" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#121212</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+    <style name="EditButton">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:tint">#EEEEEE</item>
+    </style>
+    <style name="ShutterButton">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">@drawable/shutter</item>
+    </style>
+</resources>
